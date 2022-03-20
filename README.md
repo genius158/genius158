@@ -5,5 +5,11 @@
 </p>
 
 <p align="center">
+  
+  <a href="https://juejin.cn/user/2823201589046504/posts">
+掘金:https://juejin.cn/user/2823201589046504/posts
+      </a>
+  </p>
+<p align="center">
 Mostly code in Java、kotlin、Dart、C++.
 </p>
